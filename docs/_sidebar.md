@@ -5,6 +5,7 @@
 * **小组学习**
   
   - [MySQL](</group/MySQL>)
+  - [pyMySQL](</group/pyMySQL>)
   
 * **大数据比赛**
   

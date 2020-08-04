@@ -12,12 +12,17 @@
 
 ## 维护说明
 
+**<font color=red>2020.8.4</font> 维护**
+
+- 增加忽略的文章 pymysql
+
+---
+
 
 **<font color=red>2020.5.31</font> 维护**
 
 - 增加 [无法连接远程Linux数据库解决方法](https://github.com/wfy-belief/group-study/blob/master/MySQL/%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8BLinux%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md) 文档
 - 增加 [Python操作MySQL数据库](https://github.com/wfy-belief/group-study/blob/master/MySQL/Python%E6%93%8D%E4%BD%9CMySQL%E6%95%B0%E6%8D%AE%E5%BA%93.md) 文档
-
 
 ---
 
