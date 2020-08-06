@@ -37,5 +37,3 @@ git add .     //将代码放到缓存区
 git commit -m""   //提交到本地仓库
 git push          //推送到远程
 ```
-
-## 
