@@ -1,6 +1,6 @@
 * **工具**
-  - [Docsify](<https://wfyblog.cn/notes/#/tools/docsify>)
-  - [Git](<https://wfyblog.cn/notes/#/tools/git>)
+  - [Docsify](</tools/docsify>)
+  - [Git](</tools/git>)
 
 * **小组学习**
   
@@ -9,10 +9,10 @@
   
 * **大数据比赛**
   
-  - [大数据技能挑战赛](<https://wfyblog.cn/notes/#/bigdata/0/0>)
+  - [大数据技能挑战赛](</bigdata/0/0>)
   
 *  **知识图谱**
   
-  - [neo4j](<https://wfyblog.cn/notes/#/neo4j/0>)
+  - [neo4j](</neo4j/0>)
   
   
